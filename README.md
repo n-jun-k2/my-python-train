@@ -1,2 +1,2 @@
-# my-python-train
-Effective Python 第2版
+# py-train
+Effective Python 第2版の勉強
