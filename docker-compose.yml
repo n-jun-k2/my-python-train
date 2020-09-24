@@ -1,1 +1,7 @@
 version: '3'
+services:
+    python:
+        build: .
+        volumes:
+            - ./project:/tmp/app
+        tty: true
